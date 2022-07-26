@@ -1,0 +1,15 @@
+name: AdminPanel V 0.1
+main: Lucis\Main
+author: LucisTR
+api: 4.0.0
+version: 0.1
+commands:
+  adminpanel:
+    description: AdminPanel System
+    permission: vippanel.use
+
+
+permissions:
+  vippanel.use:
+    description: "You Dont Permission to This Command"
+    default: op
